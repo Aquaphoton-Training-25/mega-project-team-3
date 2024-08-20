@@ -1,0 +1,3 @@
+Change Pin Designator/Name:  Old Designator=U2-4 Old Name=PD2 (INT0) New Designator =PD6 (AIN0) New Name=12
+Change Pin Designator/Name:  Old Designator=U2-5 Old Name=PD3 (INT1) New Designator =PD2 (INT0) New Name=4
+Change Pin Designator/Name:  Old Designator=U2-12 Old Name=PD6 (AIN0) New Designator =PD3 (INT1) New Name=5

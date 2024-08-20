@@ -1,0 +1,148 @@
+Added Component: Designator=C1(Capacitor 100nF THT)
+Added Component: Designator=C2(Capacitor 100nF THT)
+Added Component: Designator=C3(Capacitor 22pF THT)
+Added Component: Designator=C4(Capacitor 22pF THT)
+Added Component: Designator=C5(Capacitor 100nF THT)
+Added Component: Designator=C6(Capacitor 100nF THT)
+Added Component: Designator=C7(Capacitor 100nF THT)
+Added Component: Designator=C8(Capacitor 100nF THT)
+Added Component: Designator=C9(Capacitor 100nF THT)
+Added Component: Designator=D1(RGB LED Common Anode)
+Added Component: Designator=D2(Green Led 5mm)
+Added Component: Designator=D3(Green Led 5mm)
+Added Component: Designator=D4(Green Led 5mm)
+Added Component: Designator=D5(Green Led 5mm)
+Added Component: Designator=J1(Pin Header 6 Pin Female)
+Added Component: Designator=J2(Pin Headers 8 Pin Female)
+Added Component: Designator=J3(Pin Headers 8 Pin Female)
+Added Component: Designator=R1(Carbon Resistor 1k Ohm 0.25W)
+Added Component: Designator=R2(Carbon Resistor 10k Ohm 0.25W)
+Added Component: Designator=R3(Carbon Resistor 1k Ohm 0.25W)
+Added Component: Designator=R4(Carbon Resistor 1k Ohm 0.25W)
+Added Component: Designator=S1(PushButton 2 pins)
+Added Component: Designator=U1(Regulator LM7805 THT)
+Added Component: Designator=U2(Atmega328P)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(STM-L293D-16)
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits(ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output / Channel"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Peak Output"; Value = "1.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000059.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "07/2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "HalfBridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "PMIC-MOSFET,BridgeDrivers-InternalSwitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C~150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "497-2936-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "L293DViewAllSpecifications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP(0.300",7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "16-Pin Thru-Hole Dual-In-Line, Body 20 x 6.85 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "DIP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "L293D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "16-PowerDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "HalfBridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "4.5V~36V"; VariantName = "[No Variations]"
+Added Component: Designator=X1(28 pins ic holder)
+Added Component: Designator=Y1(Crystal 16MHz)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Vin Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=5Volts Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=5Volts Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=OUT2 Pin=C6-1
+Added Pin To Net: NetName=OUT1 Pin=C6-2
+Added Pin To Net: NetName=OUT4 Pin=C7-1
+Added Pin To Net: NetName=OUT3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=5Volts Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=5Volts Pin=C9-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=OUT2 Pin=D2-2
+Added Pin To Net: NetName=OUT2 Pin=D3-1
+Added Pin To Net: NetName=NetD2_1 Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=OUT4 Pin=D4-2
+Added Pin To Net: NetName=OUT4 Pin=D5-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-2
+Added Pin To Net: NetName=OUT1 Pin=R3-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Pin To Net: NetName=OUT3 Pin=R4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R4-2
+Added Pin To Net: NetName=Vin Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=5Volts Pin=U1-3
+Added Pin To Net: NetName=EN1 Pin=U2-4
+Added Pin To Net: NetName=IN1 Pin=U2-5
+Added Pin To Net: NetName=IN2 Pin=U2-6
+Added Pin To Net: NetName=5Volts Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetC3_2 Pin=U2-9
+Added Pin To Net: NetName=NetC4_2 Pin=U2-10
+Added Pin To Net: NetName=EN2 Pin=U2-11
+Added Pin To Net: NetName=IN3 Pin=U2-12
+Added Pin To Net: NetName=IN4 Pin=U2-13
+Added Pin To Net: NetName=5Volts Pin=U2-20
+Added Pin To Net: NetName=5Volts Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U2-22
+Added Pin To Net: NetName=EN1 Pin=U3-1
+Added Pin To Net: NetName=IN1 Pin=U3-2
+Added Pin To Net: NetName=OUT1 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=OUT2 Pin=U3-6
+Added Pin To Net: NetName=IN2 Pin=U3-7
+Added Pin To Net: NetName=EN2 Pin=U3-9
+Added Pin To Net: NetName=IN3 Pin=U3-10
+Added Pin To Net: NetName=OUT3 Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=OUT4 Pin=U3-14
+Added Pin To Net: NetName=IN4 Pin=U3-15
+Added Pin To Net: NetName=5Volts Pin=U3-16
+Added Pin To Net: NetName=NetC4_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC3_2 Pin=Y1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 0.33uF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 RGB LED
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED
+Added Member To Class: ClassName=Sheet1 Member=Component D3 LED
+Added Member To Class: ClassName=Sheet1 Member=Component D4 LED
+Added Member To Class: ClassName=Sheet1 Member=Component D5 LED
+Added Member To Class: ClassName=Sheet1 Member=Component J1 Pin Headers 6 Pin Female
+Added Member To Class: ClassName=Sheet1 Member=Component J2 Pin Headers 8 Pin Female
+Added Member To Class: ClassName=Sheet1 Member=Component J3 Pin Headers 8 Pin Female
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Resistor 1k Ohms THT
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Resistor 10k Ohms THT
+Added Member To Class: ClassName=Sheet1 Member=Component R3 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R4 330R
+Added Member To Class: ClassName=Sheet1 Member=Component S1 Push Button
+Added Member To Class: ClassName=Sheet1 Member=Component U1 Regulator 7805
+Added Member To Class: ClassName=Sheet1 Member=Component U2 Atmega328P
+Added Member To Class: ClassName=Sheet1 Member=Component U3 L293D
+Added Member To Class: ClassName=Sheet1 Member=Component X1 28Pins ic holder
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 16MHz

@@ -1,0 +1,90 @@
+Added Component: Designator=C1(Capacitor 100nF THT)
+Added Component: Designator=C2(Capacitor 100nF THT)
+Added Component: Designator=C3(Capacitor 22pF THT)
+Added Component: Designator=C4(Capacitor 22pF THT)
+Added Component: Designator=C5(Capacitor 100nF THT)
+Added Component: Designator=C6(Capacitor 100nF THT)
+Added Component: Designator=C7(Capacitor 100nF THT)
+Added Component: Designator=C8(Capacitor 100nF THT)
+Added Component: Designator=C9(Capacitor 100nF THT)
+Added Component: Designator=C11(Capacitor 100nF THT)
+Added Component: Designator=U2(Atmega328P)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(L293D)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Vin Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=OUT2 Pin=C5-1
+Added Pin To Net: NetName=OUT1 Pin=C5-2
+Added Pin To Net: NetName=OUT4 Pin=C6-1
+Added Pin To Net: NetName=OUT3 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-1
+Added Pin To Net: NetName=Rx Pin=U2-2
+Added Pin To Net: NetName=Tx Pin=U2-3
+Added Pin To Net: NetName=Trig1 Pin=U2-4
+Added Pin To Net: NetName=Echo1 Pin=U2-5
+Added Pin To Net: NetName=R Pin=U2-6
+Added Pin To Net: NetName=+5 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetC3_2 Pin=U2-9
+Added Pin To Net: NetName=NetC4_2 Pin=U2-10
+Added Pin To Net: NetName=G Pin=U2-11
+Added Pin To Net: NetName=B Pin=U2-12
+Added Pin To Net: NetName=IN2 Pin=U2-13
+Added Pin To Net: NetName=IN1 Pin=U2-14
+Added Pin To Net: NetName=EN1 Pin=U2-15
+Added Pin To Net: NetName=EN2 Pin=U2-16
+Added Pin To Net: NetName=IN3 Pin=U2-17
+Added Pin To Net: NetName=IN4 Pin=U2-18
+Added Pin To Net: NetName=+5 Pin=U2-20
+Added Pin To Net: NetName=+5 Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U2-22
+Added Pin To Net: NetName=Current Pin=U2-24
+Added Pin To Net: NetName=Trig2 Pin=U2-25
+Added Pin To Net: NetName=Echo2 Pin=U2-26
+Added Pin To Net: NetName=Trig3 Pin=U2-27
+Added Pin To Net: NetName=Echo3 Pin=U2-28
+Added Pin To Net: NetName=EN1 Pin=U3-1
+Added Pin To Net: NetName=IN1 Pin=U3-2
+Added Pin To Net: NetName=OUT1 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=OUT2 Pin=U3-6
+Added Pin To Net: NetName=IN2 Pin=U3-7
+Added Pin To Net: NetName=+5 Pin=U3-8
+Added Pin To Net: NetName=EN2 Pin=U3-9
+Added Pin To Net: NetName=IN3 Pin=U3-10
+Added Pin To Net: NetName=OUT3 Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=OUT4 Pin=U3-14
+Added Pin To Net: NetName=IN4 Pin=U3-15
+Added Pin To Net: NetName=Vin Pin=U3-16
+Added Member To Class: ClassName=Sheet1 Member=Component C1 0.33uF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C11 1nF
+Added Member To Class: ClassName=Sheet1 Member=Component U2 Atmega328P
+Added Member To Class: ClassName=Sheet1 Member=Component U3 L293D

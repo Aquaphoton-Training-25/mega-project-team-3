@@ -1,0 +1,172 @@
+Removed Pin From Net: NetName=+5 Pin=D6-2
+Removed Pin From Net: NetName=R Pin=U2-26
+Removed Pin From Net: NetName=G Pin=U2-27
+Removed Pin From Net: NetName=B Pin=U2-28
+Change Component Footprint: Designator=C10 Old Footprint=Capacitor 100nF THT New Footprint=Pol cap 10uF
+Change Component Footprint: Designator=D6 Old Footprint=RGB LED Common Anode New Footprint=FP-017AH-MFG
+Change Component Comment : Designator=C10 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=D6 Old Comment=RGB LED New Comment=10V
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Managed Component Library Link : Designator=D6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=6D0D5335-00CF-45D4-BD2B-4319BBDC863D Old RevisionGUID= New RevisionGUID=561C4770-03EE-47CF-9C60-F3C54BB4CE86
+Change component parameters: Designator = "D6" ("D6"); Footprint = "RGB LED Common Anode"; UniqueID = "\FNZPSLTR" ("\FNZPSLTR")
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "2.72mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESD Protection"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Glass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "200°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Leakage Current"; Value = "10µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "84408782"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Reverse Current"; Value = "10µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8541100050, 8541100050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Current"; Value = "25mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "245mg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zener Current"; Value = "25mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zener Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=*(16  PINS IC HOLDER)
+Added Component: Designator=J1(Terminal Block)
+Added Component: Designator=J2(Pin Headers 4 pins)
+Added Component: Designator=J6(Pin Headers 4 pins)
+Added Component: Designator=J7(Pin Headers 4 pins)
+Added Component: Designator=J8(Pin Headers 4 pins)
+Added Component: Designator=Q1(IRF9530)
+Added Component: Designator=R8(Carbon Resistor 10k Ohm 0.25W)
+Added Pin To Net: NetName=EN1 Pin=*-1
+Added Pin To Net: NetName=IN1 Pin=*-2
+Added Pin To Net: NetName=OUT1 Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=OUT2 Pin=*-6
+Added Pin To Net: NetName=IN2 Pin=*-7
+Added Pin To Net: NetName=+5 Pin=*-8
+Added Pin To Net: NetName=EN2 Pin=*-9
+Added Pin To Net: NetName=IN3 Pin=*-10
+Added Pin To Net: NetName=OUT3 Pin=*-11
+Added Pin To Net: NetName=GND Pin=*-12
+Added Pin To Net: NetName=GND Pin=*-13
+Added Pin To Net: NetName=OUT4 Pin=*-14
+Added Pin To Net: NetName=IN4 Pin=*-15
+Added Pin To Net: NetName=Vin Pin=*-16
+Added Pin To Net: NetName=Vin Pin=D6-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+5 Pin=J2-4
+Added Pin To Net: NetName=+5 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=+5 Pin=J6-4
+Added Pin To Net: NetName=R Pin=J7-1
+Added Pin To Net: NetName=+5 Pin=J7-2
+Added Pin To Net: NetName=G Pin=J7-3
+Added Pin To Net: NetName=B Pin=J7-4
+Added Pin To Net: NetName=+5 Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=Vin Pin=Q1-3
+Added Pin To Net: NetName=R Pin=R5-1
+Added Pin To Net: NetName=G Pin=R6-1
+Added Pin To Net: NetName=B Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=R Pin=U2-6
+Added Pin To Net: NetName=G Pin=U2-11
+Added Pin To Net: NetName=B Pin=U2-12
+Added Pin To Net: NetName=NetR2_2 Pin=X1-1
+Added Pin To Net: NetName=R Pin=X1-6
+Added Pin To Net: NetName=+5 Pin=X1-7
+Added Pin To Net: NetName=GND Pin=X1-8
+Added Pin To Net: NetName=NetC3_2 Pin=X1-9
+Added Pin To Net: NetName=NetC4_2 Pin=X1-10
+Added Pin To Net: NetName=G Pin=X1-11
+Added Pin To Net: NetName=B Pin=X1-12
+Added Pin To Net: NetName=IN2 Pin=X1-13
+Added Pin To Net: NetName=IN1 Pin=X1-14
+Added Pin To Net: NetName=EN1 Pin=X1-15
+Added Pin To Net: NetName=EN2 Pin=X1-16
+Added Pin To Net: NetName=IN3 Pin=X1-17
+Added Pin To Net: NetName=IN4 Pin=X1-18
+Added Pin To Net: NetName=+5 Pin=X1-20
+Added Pin To Net: NetName=+5 Pin=X1-21
+Added Pin To Net: NetName=GND Pin=X1-22
+Change Net Name : Old Net Name=NetU4_3 New Net Name=Vss
+Added Pin To Net: NetName=Current Pin=U2-24
+Added Pin To Net: NetName=Current Pin=U4-7
+Added Pin To Net: NetName=Current Pin=X1-24
+Added Net: Name=Current
+Added Pin To Net: NetName=Echo1 Pin=J8-3
+Added Pin To Net: NetName=Echo1 Pin=U2-5
+Added Pin To Net: NetName=Echo1 Pin=X1-5
+Added Net: Name=Echo1
+Added Pin To Net: NetName=Echo2 Pin=J6-2
+Added Pin To Net: NetName=Echo2 Pin=U2-26
+Added Pin To Net: NetName=Echo2 Pin=X1-26
+Added Net: Name=Echo2
+Added Pin To Net: NetName=Echo3 Pin=J2-2
+Added Pin To Net: NetName=Echo3 Pin=U2-28
+Added Pin To Net: NetName=Echo3 Pin=X1-28
+Added Net: Name=Echo3
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD6_2 Pin=R8-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=Q1-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=Rx Pin=J5-3
+Added Pin To Net: NetName=Rx Pin=U2-2
+Added Pin To Net: NetName=Rx Pin=X1-2
+Added Net: Name=Rx
+Added Pin To Net: NetName=Trig1 Pin=J8-2
+Added Pin To Net: NetName=Trig1 Pin=U2-4
+Added Pin To Net: NetName=Trig1 Pin=X1-4
+Added Net: Name=Trig1
+Added Pin To Net: NetName=Trig2 Pin=J6-3
+Added Pin To Net: NetName=Trig2 Pin=U2-25
+Added Pin To Net: NetName=Trig2 Pin=X1-25
+Added Net: Name=Trig2
+Added Pin To Net: NetName=Trig3 Pin=J2-3
+Added Pin To Net: NetName=Trig3 Pin=U2-27
+Added Pin To Net: NetName=Trig3 Pin=X1-27
+Added Net: Name=Trig3
+Added Pin To Net: NetName=Tx Pin=J5-4
+Added Pin To Net: NetName=Tx Pin=U2-3
+Added Pin To Net: NetName=Tx Pin=X1-3
+Added Net: Name=Tx
+Added Member To Class: ClassName=Sheet1 Member=Component * 16pins ic holder
+Added Member To Class: ClassName=Sheet1 Member=Component J1 Teminal block 2pins
+Added Member To Class: ClassName=Sheet1 Member=Component J2 Pin Headers 4 pins
+Added Member To Class: ClassName=Sheet1 Member=Component J6 Pin Headers 4 pins
+Added Member To Class: ClassName=Sheet1 Member=Component J7 Pin Headers 4 pins
+Added Member To Class: ClassName=Sheet1 Member=Component J8 Pin Headers 4 pins
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 IRF9530
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Resistor 10k Ohms THT
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_17
+Added Rule: Name=Schematic Supply Nets_18
+Added Rule: Name=Schematic Supply Nets_19
+Added Rule: Name=Schematic Supply Nets_20
+Added Rule: Name=Schematic Supply Nets_21
+Added Rule: Name=Schematic Supply Nets_22
+Added Rule: Name=Schematic Supply Nets_23
+Added Rule: Name=Schematic Supply Nets_24
+Added Rule: Name=Schematic Supply Nets_25

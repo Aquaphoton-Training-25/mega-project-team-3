@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=Q1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=Q1-2
+Removed Pin From Net: NetName=Vin Pin=Q1-3
+Removed Member From Class: ClassName=Sheet1 Member=Q1
+Change Component Comment : Designator=R2 Old Comment=Resistor 10k Ohms THT New Comment=100k
+Added Component: Designator=Q?(IRF9530)
+Added Component: Designator=U?(Atmega328P)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=Q?-1
+Added Pin To Net: NetName=NetJ1_2 Pin=Q?-2
+Added Pin To Net: NetName=Vin Pin=Q?-3
+Added Pin To Net: NetName=NetR1_2 Pin=U?-1
+Added Pin To Net: NetName=Rx Pin=U?-2
+Added Pin To Net: NetName=Tx Pin=U?-3
+Added Pin To Net: NetName=Trig1 Pin=U?-4
+Added Pin To Net: NetName=Echo1 Pin=U?-5
+Added Pin To Net: NetName=+5 Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=NetC4_2 Pin=U?-9
+Added Pin To Net: NetName=NetC5_2 Pin=U?-10
+Added Pin To Net: NetName=R Pin=U?-11
+Added Pin To Net: NetName=G Pin=U?-12
+Added Pin To Net: NetName=B Pin=U?-13
+Added Pin To Net: NetName=IN2 Pin=U?-14
+Added Pin To Net: NetName=IN1 Pin=U?-15
+Added Pin To Net: NetName=EN1 Pin=U?-16
+Added Pin To Net: NetName=EN2 Pin=U?-17
+Added Pin To Net: NetName=IN3 Pin=U?-18
+Added Pin To Net: NetName=IN4 Pin=U?-19
+Added Pin To Net: NetName=+5 Pin=U?-20
+Added Pin To Net: NetName=+5 Pin=U?-21
+Added Pin To Net: NetName=GND Pin=U?-22
+Added Pin To Net: NetName=Current Pin=U?-23
+Added Pin To Net: NetName=Voltage Pin=U?-24
+Added Pin To Net: NetName=Trig2 Pin=U?-25
+Added Pin To Net: NetName=Echo2 Pin=U?-26
+Added Pin To Net: NetName=Trig3 Pin=U?-27
+Added Pin To Net: NetName=Echo3 Pin=U?-28
+Added Member To Class: ClassName=Sheet1 Member=Component J9 Teminal block 2pins
+Added Member To Class: ClassName=Sheet1 Member=Component Q? IRF9530
+Added Member To Class: ClassName=Sheet1 Member=Component U? Atmega328P

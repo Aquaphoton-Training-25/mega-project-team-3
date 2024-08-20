@@ -1,0 +1,29 @@
+Added Component: Designator=X1(28 pins ic holder)
+Added Pin To Net: NetName=Reset Pin=X1-1
+Added Pin To Net: NetName=Rx Pin=X1-2
+Added Pin To Net: NetName=Tx Pin=X1-3
+Added Pin To Net: NetName=Trig1 Pin=X1-4
+Added Pin To Net: NetName=Echo1 Pin=X1-5
+Added Pin To Net: NetName=+5 Pin=X1-7
+Added Pin To Net: NetName=GND Pin=X1-8
+Added Pin To Net: NetName=Pin 9 Pin=X1-9
+Added Pin To Net: NetName=Pin 10 Pin=X1-10
+Added Pin To Net: NetName=R Pin=X1-11
+Added Pin To Net: NetName=G Pin=X1-12
+Added Pin To Net: NetName=B Pin=X1-13
+Added Pin To Net: NetName=IN2 Pin=X1-14
+Added Pin To Net: NetName=IN1 Pin=X1-15
+Added Pin To Net: NetName=EN1 Pin=X1-16
+Added Pin To Net: NetName=EN2 Pin=X1-17
+Added Pin To Net: NetName=IN3 Pin=X1-18
+Added Pin To Net: NetName=IN4 Pin=X1-19
+Added Pin To Net: NetName=+5 Pin=X1-20
+Added Pin To Net: NetName=+5 Pin=X1-21
+Added Pin To Net: NetName=GND Pin=X1-22
+Added Pin To Net: NetName=Current Pin=X1-23
+Added Pin To Net: NetName=Voltage  Pin=X1-24
+Added Pin To Net: NetName=Trig2 Pin=X1-25
+Added Pin To Net: NetName=Echo2 Pin=X1-26
+Added Pin To Net: NetName=Trig3 Pin=X1-27
+Added Pin To Net: NetName=Echo3 Pin=X1-28
+Added Member To Class: ClassName=Sheet1 Member=Component X1 28Pins ic holder

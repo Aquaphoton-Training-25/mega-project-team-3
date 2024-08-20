@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Current Pin=X1-23
+Removed Pin From Net: NetName=Voltage  Pin=X1-24
+Added Pin To Net: NetName=Voltage  Pin=U2-23
+Added Pin To Net: NetName=Current Pin=U2-24
+Added Pin To Net: NetName=Voltage  Pin=X1-23
+Added Pin To Net: NetName=Current Pin=X1-24
+Added Member To Class: ClassName=Sheet1 Member=Component J8 Pin Headers 8 Pin Female
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 IRF9530
+Added Member To Class: ClassName=Sheet1 Member=Component U2 Atmega328P
+Added Member To Class: ClassName=Sheet1 Member=Component X1 28Pins ic holder

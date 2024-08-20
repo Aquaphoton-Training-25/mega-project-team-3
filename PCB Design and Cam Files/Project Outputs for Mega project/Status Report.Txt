@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Mega project.PrjPcb]
+   Generated File[Pick Place for Mega_pcb.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:02:29 PM On 8/20/2024

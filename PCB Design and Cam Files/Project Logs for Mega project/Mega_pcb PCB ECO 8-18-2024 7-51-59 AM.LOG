@@ -1,0 +1,47 @@
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Resistor 1k Ohms THT New DesignItemId=Resistor tht
+Change Component DesignItemId : Designator=R4 Old DesignItemId=Resistor 1k Ohms THT New DesignItemId=Resistor tht
+Change Component DesignItemId : Designator=R5 Old DesignItemId=Resistor 1k Ohms THT New DesignItemId=Resistor tht
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Resistor 10k Ohms THT New DesignItemId=Resistor THT
+Change Component Footprint: Designator=R1 Old Footprint=Carbon Resistor 10k Ohm 0.25W New Footprint=Carbon Resistor 1k Ohm 0.25W
+Added Component: Designator=D2(Green Led 5mm)
+Added Component: Designator=R6(Carbon Resistor 1k Ohm 0.25W)
+Added Component: Designator=U2(Atmega328P)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-1
+Added Pin To Net: NetName=Rx Pin=U2-2
+Added Pin To Net: NetName=Tx Pin=U2-3
+Added Pin To Net: NetName=Trig1 Pin=U2-4
+Added Pin To Net: NetName=Echo1 Pin=U2-5
+Added Pin To Net: NetName=+5 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetC4_2 Pin=U2-9
+Added Pin To Net: NetName=NetC5_2 Pin=U2-10
+Added Pin To Net: NetName=R Pin=U2-11
+Added Pin To Net: NetName=G Pin=U2-12
+Added Pin To Net: NetName=B Pin=U2-13
+Added Pin To Net: NetName=IN2 Pin=U2-14
+Added Pin To Net: NetName=IN1 Pin=U2-15
+Added Pin To Net: NetName=EN1 Pin=U2-16
+Added Pin To Net: NetName=EN2 Pin=U2-17
+Added Pin To Net: NetName=IN3 Pin=U2-18
+Added Pin To Net: NetName=IN4 Pin=U2-19
+Added Pin To Net: NetName=+5 Pin=U2-20
+Added Pin To Net: NetName=+5 Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U2-22
+Added Pin To Net: NetName=Current Pin=U2-23
+Added Pin To Net: NetName=Voltage Pin=U2-24
+Added Pin To Net: NetName=Trig2 Pin=U2-25
+Added Pin To Net: NetName=Echo2 Pin=U2-26
+Added Pin To Net: NetName=Trig3 Pin=U2-27
+Added Pin To Net: NetName=Echo3 Pin=U2-28
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R6-1
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Green LED
+Added Member To Class: ClassName=Sheet1 Member=Component R6 330R
+Added Member To Class: ClassName=Sheet1 Member=Component U2 Atmega328P

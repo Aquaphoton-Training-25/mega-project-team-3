@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Mega project\Project Outputs for Mega project\Pick Place for Mega_pcb.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/08/24
+Time:       23:02
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                    Layer    Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                               
+Q1         IRF9530                    TopLayer IRF9530                       3342.000      1044.000      180      ""                                                                        
+X1         "28Pins ic holder"         TopLayer 28_pins_ic_holder             1919.000      2170.000      0        ""                                                                        
+J8         "Pin Headers 8 Pin Female" TopLayer Pin_Headers_8_Pin_Female      2138.000      706.000       0        ""                                                                        
+J9         "Teminal block 2pins"      TopLayer Terminal_Block                2099.575      241.000       0        ""                                                                        
+J10        "Pin Headers 4 pins"       TopLayer Pin_Headers_4_pins            1220.000      725.000       0        ""                                                                        
+R6         330R                       TopLayer Carbon_Resistor_1k_Ohm_0.25W  337.008       279.000       0        ""                                                                        
+D2         LED                        TopLayer Green_Led_5mm                 146.000       577.000       270      ""                                                                        
+Y1         16MHz                      TopLayer Crystal_16MHz                 1059.000      1927.457      90       ""                                                                        
+U1         "Regulator 7805"           TopLayer Regulator_LM7805_THT          540.000       638.000       180      ""                                                                        
+S1         "Push Button"              TopLayer PushButton_2_pins             1143.000      3302.575      270      ""                                                                        
+R5         330R                       TopLayer Carbon_Resistor_1k_Ohm_0.25W  644.992       1168.000      0        ""                                                                        
+R4         330R                       TopLayer Carbon_Resistor_1k_Ohm_0.25W  649.992       1311.000      0        ""                                                                        
+R3         330R                       TopLayer Carbon_Resistor_1k_Ohm_0.25W  644.992       1493.000      0        ""                                                                        
+R2         100k                       TopLayer Carbon_Resistor_10k_Ohm_0.25W 3209.992      1689.000      180      ""                                                                        
+R1         10k                        TopLayer Carbon_Resistor_1k_Ohm_0.25W  465.992       3206.000      0        ""                                                                        
+J7         "Pin Headers 4 pins"       TopLayer Pin_Headers_4_pins            279.000       2461.000      270      ""                                                                        
+J6         "Teminal block 2pins"      TopLayer Terminal_Block                3020.425      519.000       0        ""                                                                        
+J5         "Pin Headers 4 pins"       TopLayer Pin_Headers_4_pins            285.000       1345.000      270      ""                                                                        
+J4         "Pin Headers 4 pins"       TopLayer Pin_Headers_4_pins            1145.000      2855.000      270      ""                                                                        
+J3         "Pin Headers 4 pins"       TopLayer Pin_Headers_4_pins            3529.000      2565.000      270      ""                                                                        
+J2         "Pin Headers 4 pins"       TopLayer Pin_Headers_4_pins            1910.000      3650.000      0        ""                                                                        
+J1         "Teminal block 2pins"      TopLayer Terminal_Block                3720.575      508.000       0        ""                                                                        
+D1         10V                        TopLayer FP-017AH-MFG                  3371.000      1333.000      0        "1N4740ATR 1N4740 Series 1 W 10 V 10 uA Through Hole Zener Diode - DO-41" 
+C7         100nF                      TopLayer Capacitor_100nF_THT           2212.000      2072.150      270      ""                                                                        
+C6         100nF                      TopLayer Capacitor_100nF_THT           1613.000      2161.850      90       ""                                                                        
+C5         22pF                       TopLayer Capacitor_22pF_THT            656.850       1830.000      0        ""                                                                        
+C4         22pF                       TopLayer Capacitor_22pF_THT            656.150       2024.000      0        ""                                                                        
+C3         10uF                       TopLayer Pol_cap_10uF                  1405.000      2211.425      270      ""                                                                        
+C2         100nF                      TopLayer Capacitor_100nF_THT           443.000       836.150       270      ""                                                                        
+C1         0.33uF                     TopLayer Capacitor_100nF_THT           638.000       839.850       270      ""                                                                        
